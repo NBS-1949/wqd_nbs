@@ -18,3 +18,7 @@ renv.lock
 inst/doc
 docs
 /vignettes
+WQdashboard.Rcheck/
+WQdashboard*.tar.gz
+WQdashboard*.tgz
+WQdashboard.Rcheck/

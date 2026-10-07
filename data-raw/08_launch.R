@@ -17,7 +17,7 @@
 #'
 #' @noRd
 
-launch_to <- "shinyapps.io"
+launch_to <- "posit connect"
 create_docker_file <- FALSE
 
 # CODE - DO NOT EDIT BELOW THIS LINE -------------------------------------------
