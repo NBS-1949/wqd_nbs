@@ -60,7 +60,7 @@ in_format <- "masswater"
 date_format <- "m/d/Y"
 timezone <- Sys.timezone()
 
-overwrite_existing <- FALSE
+overwrite_existing <- TRUE
 recalculate_score <- TRUE
 update_citation <- TRUE
 
